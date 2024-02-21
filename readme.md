@@ -4,5 +4,5 @@
   tool to understand and learn major git commands
 * Git,Github: https://github.com/orgs/skills/repositories?type=all&q=sort%3Astars
   learn all about git and github:
-* Css attributes: https://learngitbranching.js.org
+* Css attributes: https://flexboxfroggy.com/
   tool to understand and learn css attributes visually
