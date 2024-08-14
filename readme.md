@@ -6,3 +6,6 @@
   learn all about git and github:
 * Css attributes: https://flexboxfroggy.com/
   tool to understand and learn css attributes visually
+
+* Remote connection: 
+  -GNU Screen: https://medium.com/@yiskylee/gnu-screen-and-tmux-which-should-you-choose-de325d32fc2a
